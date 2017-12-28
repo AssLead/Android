@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\ass_git\\XRefreshViewLib\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "E:\\ass_git\\XRefreshViewLib\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
         "merged": "G:\\DingShopping\\XRefreshViewLib\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
         "source": "G:\\DingShopping\\XRefreshViewLib\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
@@ -14,5 +18,9 @@
     {
         "merged": "D:\\Code\\DingShopping\\DingShopping\\XRefreshViewLib\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
         "source": "D:\\Code\\DingShopping\\DingShopping\\XRefreshViewLib\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "E:\\ass_git\\XRefreshViewLib\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "E:\\ass_git\\XRefreshViewLib\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     }
 ]
